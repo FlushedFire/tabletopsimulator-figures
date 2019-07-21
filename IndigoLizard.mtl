@@ -1,0 +1,20 @@
+# Material file for IndigoLizard.obj
+
+newmtl Color
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.8 0.8 0.8
+	Ka 0.0 0.0 0.0
+	map_Kd IndigoLizard_VertColor.png
+
+newmtl Texture
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.8 0.8 0.8
+	Ka 0.0 0.0 0.0
+	map_Kd Glimmer_ObjectTextures.png
+
